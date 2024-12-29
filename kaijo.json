@@ -9,14 +9,14 @@
 			"train": {"line":"東京メトロ半蔵門線", "station":"神保町", "exit": "A1"},
 			"distance": 3,
 			"capacity": 802,
-			"slope": "あるが、緩やか",
+			"slope": 3,
 			"website":"https://www.jec.or.jp/",
 			"photo": "photos/001.jpg",
 			"chart": "charts/001.png",
 			"rating": 3,
-			"comments": "災難",
+			"comments": "縦長かつ段差が緩やかのせいで、わりと見にくい。",
 			"goodseat": "8列",
-			"familyseat": "なし"
+			"familyseat": 0
 		} //1
 		
 
