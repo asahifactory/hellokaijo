@@ -1,6 +1,25 @@
-data:[
 {
-	
-}
+	"kaijo":[
 
-]
+		{
+			"id": 1,
+			"name": "一ツ橋ホール",
+			"type": "ホール",
+			"location": {"city": "東京", "area": "千代田区", "address": "一ツ橋2-6-2"},
+			"train": {"line":"東京メトロ半蔵門線", "station":"神保町", "exit": "A1"},
+			"distance": 3,
+			"capacity": 802,
+			"slope": "あるが、緩やか",
+			"website":"https://www.jec.or.jp/",
+			"photo": "photos/001.jpg",
+			"chart": "charts/001.png",
+			"rating": 3,
+			"comments": "災難",
+			"goodseat": "8列",
+			"familyseat": "なし"
+		} //1
+		
+
+	]//kaijo
+
+}
